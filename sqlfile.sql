@@ -1,4 +1,4 @@
 select avg(age)
 from (
-    select 10 as age;
+    select 10*10 as age;
 );
