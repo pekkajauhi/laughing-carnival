@@ -1,1 +1,3 @@
-select 1+1;
+// testing
+select 1+1,
+        1/2;
